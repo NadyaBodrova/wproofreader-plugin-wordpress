@@ -16,13 +16,13 @@ The WProofreader plugin automatically checks spelling and grammar in multiple la
 Here are a few highlights of how the plugin can be useful for your websites:
 
 ### Multilingual
-The Pro version proofreads in 14 languages, plus spell checking in Finnish and Norwegian Bokmal. You can also extend the spell checking with any of 150+ additional languages.
+The Pro version proofreads in 15 languages, plus spell checking in Finnish and Norwegian Bokmal. You can also extend the spell checking with any of 150+ additional languages.
 
 6 languages are spell checked in the Free version.
 
 ### Grammar-Savvy
 
-The Pro version is able of checking of not only spelling, but grammar in 14 languages as well.
+The Pro version is able to check not only spelling but grammar mistakes in 15 languages.
 
 ### Customizable
 
@@ -32,9 +32,9 @@ In the Free version the users can create their Personal User Dictionaries as wel
 
 ### Powerful
 
-The Pro version proofreads up to 10,000,000 words per year, and can be used in up to 5 websites.  
+The Pro version proofreads up to 10,000,000 words per year and can be used in up to 5 websites.  
 
-The free version checks spelling in to 5,000 words per day on one website. Once the limit is reached the proofreading stops until the next day.
+The free version checks spelling into 5,000 words per day on one website. Once the limit is reached the proofreading stops until the next day.
 
 ### Modern
 
@@ -83,7 +83,7 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 **Can WProofreader plugin check the entire website?**
 
-> Here is the list of content types which can be checked by the plugin: content of pages, content of posts, tag descriptions, category descriptions, WooCommerce and WP eCommerce product descriptions, any Custom Post Type, Meta description fields of Yoast SEO plugin.
+> Here is the list of content types which can be checked by the plugin: content of pages, content of posts, tag descriptions, category descriptions, WooCommerce, and WP eCommerce product descriptions, any Custom Post Type, Meta description fields of Yoast SEO plugin.
 
 **How can I enable the plugin in Custom Post Types?**
 
@@ -105,19 +105,19 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 > The Pro version has an extended list of the default languages and supports the following 16 languages: American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, Finnish, French, German, Greek, Italian, Norwegian Bokmal, Portuguese, Spanish, Swedish.
 
-> Also, with the Pro version, the default list of languages can be extended with more than 140+ [additional languages](https://webspellchecker.com/additional-dictionaries/).
+> Also, with the Pro version, the default list of languages can be extended with more than 140+ [additional languages](https://webspellchecker.com/additional-dictionaries/) and specialized [Medical](https://webspellchecker.com/additional-dictionaries/#medical-dictionary) and [Legal] (https://webspellchecker.com/additional-dictionaries/#legal-dictionary) dictionaries.
 
 **How can I create a personal dictionary?**
 
-> **WProofreader** plugin has a special functionality called User Dictionary. It allows creating personal dictionaries with custom words (complex words, acronyms, proper names etc.) and use it across you website. All words added to a personal dictionary will not be considered as misspellings. 
+> **WProofreader** plugin has a special functionality called User Dictionary. It allows creating personal dictionaries with custom words (complex words, acronyms, proper names, etc.) and using it across your website. All words added to a personal dictionary will not be considered as misspellings. 
 
-> In order to create a new personal dictionary click the orange badge in bottom right corner of the text field and select Settings. Then go to Dictionaries, Name your new dictionary and click Create.   All new words will be added to a newly created dictionary.
+> In order to create a new personal dictionary click the orange badge in the bottom right corner of the text field and select Settings. Then go to Dictionaries, Name your new dictionary and click Create.   All new words will be added to a newly created dictionary.
 
 > You can create the global custom dictionaries to be used across all the websites under your subscription via your subscription management panel. Please see the detailed instructions [here](https://docs.webspellchecker.net/display/WebSpellCheckerCloud/Configuring+Cloud+Custom+Dictionary).
 
 **Can I check grammar with this plugin as well?**
 
-> Yes, the Pro version checks grammar in 14 languages: American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish. 
+> Yes, the Pro version checks grammar in 15 languages: American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish, Ukrainian. 
 
 **Is support provided with this plugin?**
 
@@ -131,7 +131,7 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 > *	Usage limitations: Up to 5,000 words processed per day.  Once the daily limit is reached, the tool will stop working.
 > *	Allowed number of websites: 1 website
-> *	Languages available  for spell checking (6 languages): American English, British English, French, German, Italian, Spanish.
+> *	Languages available for spell checking (6 languages): American English, British English, French, German, Italian, Spanish.
 > *	Languages available for grammar checking: Not available
 > *	Personal user dictionaries:  No cloud backup. The dictionary is only available in one browser on a single device. The dictionary is not available for review and modification.
 > *	Global custom dictionaries: Not available
@@ -140,14 +140,26 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 > *	Usage limitations: Up to 10 million of words processed per year. No daily limits apply
 > *	Allowed number of websites: Up to 5 websites
-> *	Languages available  for spell checking (16 languages): American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, Finnish, French, German, Greek, Italian, Norwegian Bokmal, Portuguese, Spanish, Swedish.
-> *	Languages available for grammar checking (14 languages): American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish, Swedish.
-> *	Personal user dictionaries:  Stored in the cloud, available from any browser or device. The user can freely access, review and modify the list of words in the dictionary.
+> *	Languages available for spell checking (17 languages): American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, Finnish, French, German, Greek, Italian, Norwegian Bokmal, Portuguese, Spanish, Swedish, Ukrainian.
+> *	Languages available for grammar checking (15 languages): American English, British English, Brazilian Portuguese, Canadian English, Canadian French, Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish, Swedish, Ukrainian.
+> *	Personal user dictionaries: Stored in the cloud, available from any browser or device. The user can freely access, review and modify the list of words in the dictionary.
 > *	Global custom dictionaries: The subscription admin can create global dictionaries that will be available across all the connected websites
+
+**How to add Medical or Legal Dictionary to the Pro version?**
+
+> With the Pro version, the default list of languages can be extended with specialized English [Medical](https://webspellchecker.com/additional-dictionaries/#medical-dictionary) and [Legal] (https://webspellchecker.com/additional-dictionaries/#legal-dictionary) dictionaries. The purchased dictionary will be enabled for the client Pro subscription once the payment is made. [Contact](https://webspellchecker.com/contact-us/) our sales team for more details.
+
+> **Medical Dictionary ($14 per year)**
+
+> The Medical Dictionary includes over 192K terms related to anatomy, diseases, health care, generic and trademark drug names.
+
+> **Legal Dictionary ($9 per year)**
+
+> The Legal Dictionary contains about 5K terms related to jurisprudence, law, criminology, and law enforcement.
 
 **What is global custom dictionary and how I can use it?**
 
-> The global custom dictionary functionality is available in the Pro version only and is aimed at extending a list of words in the default dictionaries with your custom words and terms. It helps to improve the quality of spelling check services. Using a personal account on the webspellchecker.ner website. You may create a custom wordlist which includes specific terms, abbreviations, etc. These words won’t be considered as misspellings.
+> The global custom dictionary functionality is available in the Pro version only and is aimed at extending a list of words in the default dictionaries with your custom words and terms. It helps to improve the quality of spelling check services. Using a personal account on the [webspellchecker.com](https://webspellchecker.com/) website. You may create a custom wordlist which includes specific terms, abbreviations, etc. These words won’t be considered as misspellings.
 
 **What are the Terms of Service?**
 
